@@ -4,7 +4,7 @@ This repository contains the official implementation for Hyperboloid GPLVM for D
 Hyperboloid GPLVM extends the GPLVM, sparse-GPLVM, and Bayesian GPLVM to the hyperbolic space. We develop hyperboloid kernel and optimization algorithms that follow previous research on kernel methods and optimization on Riemannian manifolds.
 
 # BibTeX citation
-If you use this code in your work, please cite our paper as follows (this information will be updated:
+If you use this code in your work, please cite our paper as follows (this information will be updated):
 ```bibtex
 @article{watanabe2024hyperboloid,
   title={Hyperboloid GPLVM for Discovering Continuous Hierarchies via Nonparametric Estimation},
@@ -17,7 +17,7 @@ If you use this code in your work, please cite our paper as follows (this inform
 # Installation
 We tested our code in the environment as follows:
 - Ubuntu: 22.04
-- python:3.10.12
+- python: 3.10.12
 - numpy: 1.26.2
 - scipy: 1.11.4
 - tqdm: 4.66.1
