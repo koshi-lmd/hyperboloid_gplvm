@@ -24,5 +24,5 @@ We tested our code in the environment as follows:
 
 # Note
 - Our code does not depend on the GPU usage.
-- We include the datasets used in our paper (datasets/). The results will be reproduced using 'demo.ipynb'.
+- We include the datasets used in our paper (dataset/). The results exhibited in our paper will be reproduced using 'demo.ipynb'.
 - In the 'demo.ipynb', we partially used the original implementation of the [PoincareMaps](https://github.com/facebookresearch/PoincareMaps), [RoWN](https://github.com/ml-postech/RoWN), and [GPy library](https://gpy.readthedocs.io/en/deploy/). We appreciate their contributions.
