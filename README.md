@@ -23,6 +23,6 @@ We tested our code in the environment as follows:
 - tqdm: 4.66.1
 
 # Note
-- Our code does not depend on the GPU.
+- Our code does not depend on the GPU usage.
 - We include the datasets used in our paper (datasets/). The results will be reproduced using 'demo.ipynb'.
-- In the 'demo.ipynb', we partially used the original implementation of the PoincareMaps (https://github.com/facebookresearch/PoincareMaps) and that of the RoWN (https://github.com/ml-postech/RoWN) and GPy library (https://gpy.readthedocs.io/en/deploy/).
+- In the 'demo.ipynb', we partially used the original implementation of the [PoincareMaps](https://github.com/facebookresearch/PoincareMaps), [RoWN](https://github.com/ml-postech/RoWN), and [GPy library](https://gpy.readthedocs.io/en/deploy/). We appreciate their contributions.
